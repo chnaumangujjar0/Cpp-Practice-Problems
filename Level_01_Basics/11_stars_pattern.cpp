@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    //======IN this file, i only intialze a one variable  and update it for each pattern 
+    //======IN this file, i  intialze only  one variable  and update it for each pattern .
     string star = "";
     int n=5;
     cout<<"\n =============STAR PATTERN=============="<<endl;
